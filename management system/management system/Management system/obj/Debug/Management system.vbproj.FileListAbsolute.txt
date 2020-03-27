@@ -1,0 +1,14 @@
+C:\Users\oisin\OneDrive\yvonne s2\management system\Management system\Management system\obj\Debug\Management system.vbprojAssemblyReference.cache
+C:\Users\oisin\OneDrive\yvonne s2\management system\Management system\Management system\obj\Debug\Management_system.Resources.resources
+C:\Users\oisin\OneDrive\yvonne s2\management system\Management system\Management system\obj\Debug\Management system.vbproj.GenerateResource.cache
+C:\Users\oisin\OneDrive\yvonne s2\management system\Management system\Management system\obj\Debug\Management system.vbproj.CoreCompileInputs.cache
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\bin\Debug\Management system.exe.config
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\bin\Debug\Management system.exe
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\bin\Debug\Management system.pdb
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\bin\Debug\Management system.xml
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management system.exe
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management system.xml
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management system.pdb
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management_system.frmHome.resources
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management_system.frmLogin.resources
+C:\Users\oisin\OneDrive\yvonne s2\management system\management system\Management system\obj\Debug\Management_system.frmCustomize.resources
